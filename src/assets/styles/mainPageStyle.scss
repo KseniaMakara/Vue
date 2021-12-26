@@ -1,0 +1,16 @@
+.bg {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  z-index: 1;
+  top: 100px;
+  color: rgb(156, 33, 54);
+}
+.contentAxios{
+  background-color: khaki;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 110px;
+  width: 50vw;
+}
